@@ -26,6 +26,8 @@ A friendly backend project built with **Node.js**, **Express.js**, and **MongoDB
 
 ## Project Structure
 
+```
+
 EvelynAuth/
 ├── controllers/
 │ └── userController.js
@@ -37,6 +39,8 @@ EvelynAuth/
 ├── .gitignore
 ├── package.json
 ├── server.js
+
+```
 
 
 ---
