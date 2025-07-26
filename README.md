@@ -60,21 +60,30 @@ EvelynAuth/
 
 ## 🛠️ Setup Instructions
 
-```bash
 # 1. Clone repo
-git clone https://github.com/ricoaprillananda/evelynauth-basic.git
+
+```
+git clone https://github.com/ricoaprillananda/evelynauth-basic.gi
+```
 
 # 2. Install dependencies
+
+```
 cd evelynauth-basic
 npm install
+```
 
 # 3. Setup .env file
+
+```
 PORT=5000  
 MONGO_URI=your_mongo_connection_string
+```
 
 # 4. Run server
-npm run dev
 
+```
+npm run dev
 ```
 ---
 
